@@ -1,0 +1,91 @@
+{
+    "historyMessages": [
+        {
+            "id": 0,
+            "userId": 1,
+            "incoming": true,
+            "text": "1 in sssnon et atqueecati deserunt quas accusantium unde odit nobis qui volu",
+            "time": "1995-12-17T07:15:25"
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "incoming": true,
+            "text": "2 in aecati deserunt quas accusantium unde odit nobis qui volu",
+            "time": "1995-12-17T11:30:23"
+        },
+        {
+            "id": 2,
+            "userId": 0,
+            "incoming": false,
+            "text": "3 out aecati deserunt quas accusantium unde odit nobis qui volu",
+            "time": "1995-12-17T14:41:31"
+        },
+        {
+            "id": 3,
+            "userId": 2,
+            "incoming": false,
+            "text": "4 out non et atquoccaecati deserunt  odit nobis qui volu",
+            "time": "1995-12-17T16:45:20"
+        },
+        {
+            "id": 4,
+            "userId": 2,
+            "incoming": true,
+            "text": "5 in non et atque\noccaecati deserunt quas accusantium unde odit nobis qui volu",
+            "time": "1995-12-17T22:11:45"
+        }
+    ],
+    "userList": [
+        {
+            "id": 0,
+            "name": "John Fisher",
+            "photo": "images-1.jpg"
+        },
+        {
+            "id": 1,
+            "name": "James Green",
+            "photo": "images-2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Kate Williams",
+            "photo": "images-3.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Marty Shelgan",
+            "photo": "images-4.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Tom Richard",
+            "photo": "images-5.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Kate Freeman",
+            "photo": "images-6.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pol Frayer",
+            "photo": "images-7.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Willy Jackson",
+            "photo": "images-8.jpg"
+        },
+        {
+            "id": 8,
+            "name": "David Burt",
+            "photo": "images-9.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Noord Moon",
+            "photo": "images-10.jpg"
+        }
+    ]
+}
